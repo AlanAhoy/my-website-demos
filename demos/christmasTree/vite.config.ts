@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, ".", "");
   return {
-    base: "/christmasTree/dist/", // ✅ 新增：打包后资源路径正确
+    base: "/my-website-demos/demos/christmasTree/dist/", // ✅ 新增：打包后资源路径正确
     server: {
       port: 3000,
       host: "0.0.0.0",
