@@ -1,0 +1,8 @@
+
+{
+  "name": "Celestial Gesture Christmas Tree",
+  "description": "A luxury 3D Christmas tree experience controlled by hand gestures, featuring instanced particles and a dynamic photo cloud.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
